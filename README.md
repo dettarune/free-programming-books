@@ -224,6 +224,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 + English
   + [Code of Conduct](docs/CODE_OF_CONDUCT.md)
   + [Contributing](docs/CONTRIBUTING.md)
+  + new line
   + [How-to](docs/HOWTO.md)
 + ... *[More languages](docs/README.md#translations)* ...
 
@@ -233,3 +234,4 @@ You might notice that there are [some missing translations here](docs/README.md#
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
